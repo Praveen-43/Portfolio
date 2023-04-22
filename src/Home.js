@@ -78,7 +78,7 @@ function Home({ data }) {
               <FcDownload
                 onClick={() =>
                   window.open(
-                    "resume link",
+                    "https://app.luminpdf.com/viewer/6443d997d014bc163ffd639a",
                     "_blank"
                   )
                 }
